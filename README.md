@@ -1,4 +1,4 @@
-# My Front-end Code Rules
+# Personal Front-end Code Rules
 
 The following document describes the rules of writing in development languages that I use: HTML, CSS and JavaScript.
 
