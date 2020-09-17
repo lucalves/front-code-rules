@@ -242,9 +242,9 @@ For give support a olds Internet Explorer...
 ```
 
 <a name="css"></a>
-### 3. CSS
+## 3. CSS
 
-## 3.1 CSS Sumary
+### 3.1 CSS Sumary
 
 1. [CSS Syntax](#css-syntax)
 1. [CSS Declaration Order](#css-order)
