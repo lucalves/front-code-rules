@@ -228,7 +228,7 @@ The following code is a HTML base for faster start the projects.
 </html>
 ```
 
-For give support a olds Internet Explorer...
+For give support a olds Internet Explorer (IE)...
 
 ```html
 <!DOCTYPE html>
