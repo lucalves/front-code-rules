@@ -1,5 +1,3 @@
-<img src="https://user-images.githubusercontent.com/17712401/90824368-b5a83080-e30d-11ea-8516-d324338f43a5.png" width="110px" height="100px" align="center">
-
 # My Front-end Code Rules
 
 The following document describes the rules of writing in development languages that I use: HTML, CSS and JavaScript.
